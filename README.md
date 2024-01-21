@@ -1,5 +1,5 @@
 # Housing Affordability Project
-Using Public Data to Visualize Housing Affordability by county. This project looks specifically at Monroe County Indiana but can be modified to focus on any county in the US. The goal of the project is to use publicly available data to look at the average disposable income after housing costs on a hyperlocal level.
+Using Public Data to Visualize Housing Affordability by county. This project looks specifically at the state of Indiana and Monroe County but can be modified to focus on any county in the US. The goal of the project is to use publicly available data to look at the average disposable income after housing costs on a hyperlocal level.
 
 # Data Sources:
 1) Location affordability index dataset:
